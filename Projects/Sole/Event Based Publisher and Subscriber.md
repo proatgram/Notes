@@ -1,0 +1,23 @@
+Event Based Publisher and Subscriber
+=================
+
+Class containing functions and methods to publish event data such as key data to subscribers.
+
+## Publisher
+ - Non-static
+ - Allows for versatile subscriptions based on `EventType`'s
+
+### Publish methods
+Multi-purpose publisher, can publish different types of events to subscribers subscribed to those events.
+
+e.g. 
+`Publisher.Publish<EventType>(EventType event_data);`
+
+### Subscribe methods
+The `Subscribe` method will10/26/23 return a `Subscriber` object to be used and polled.
+ - `Publisher.Subscribe<EventType>(std::string subscriber_name)`
+
+### General management methods
+ - `GetSubscriberCount()`
+ - `GetSubscriberName(int subscriber_id)`
+ - `GetSubscriberId(std::string subscriber_name)`

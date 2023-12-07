@@ -14,7 +14,7 @@ e.g.
 `Publisher.Publish<EventType>(EventType event_data);`
 
 ### Subscribe methods
-The `Subscribe` method will10/26/23 return a `Subscriber` object to be used and polled.
+The `Subscribe` method will return a `Subscriber` object to be used and polled.
  - `Publisher.Subscribe<EventType>(std::string subscriber_name)`
 
 ### General management methods

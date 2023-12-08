@@ -15,7 +15,7 @@ Expanding and using parts of the [DMS](###direct-messaging-system), it also allo
 This system however also functions as a standard Publish/Subscribe System, with an intermediate message [Broker](##broker) in the middle. This system will allow a Messanger to subcribe to or publish an Event, or a Message Content description, or a hybrid of the two. This allows the most flexibility when it comes to data exchange.
 
 ## Recieve Acknowledgements
-When a Message gets published, indirectly or directly to one or more Messangers or Subscribers, it will include relavent data such that the Reciever can send an acknowledgement message in return if it is required. This is optional however, unless specified by the Message being sent. Such cases where an acknowledgem
+When a Message gets published, indirectly or directly to one or more Messangers or Subscribers, it will include relavent data such that the Reciever can send an acknowledgement message in return if it is required. This is optional however, unless specified by the Message being sent. Such cases where an acknowledgement message must be sent upon recieving a message, could be a time sensative situation, in which blocking on the senders side happens until the sender knows for sure the message has been recieved correctly.
 
 # Descriptions
 

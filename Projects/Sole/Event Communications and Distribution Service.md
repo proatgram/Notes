@@ -9,7 +9,7 @@ In a traditional Publish/Subscribe system implementing a broker, the Publisher a
 ## Request Broadcast System
 Expanding and using parts of the [DMS](###direct-messaging-system), it also allows for our subscribers, to query data from recievers that happen to have the data requested. This could be data within specific coordinates, etc. 
 
-# Description of the 
+# Description of the parts involved, and their functions and or methods.
 
 ## Broker
 

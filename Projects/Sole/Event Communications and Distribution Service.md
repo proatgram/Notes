@@ -20,10 +20,12 @@ When a Message gets published, indirectly or directly to one or more Messangers 
 # Descriptions
 
 ## Broker
-The Broker in this system contains all of the functionality to correctly route messages to their specific destination. This includes methods to 
+The Broker in this system contains all of the functionality to correctly route messages to their specific destination. This includes methods to:
+ - Add a message onto the main queue
+ - Send a Direct Message to a specific 
 ## Publisher
 
 ## Subscriber
 
 ## Hybrid
-This is a Hybrid of a Publisher and Subscriber, which would most likely be used the most, as apposed to just a single publisher and single subscriber. This would inherit from both Publisher and Subscriber, allowing funct
+This is a Hybrid of a Publisher and Subscriber, which would most likely be used the most, as apposed to just a single publisher and single subscriber. This would inherit from both Publisher and Subscriber, allowing functionality of both.

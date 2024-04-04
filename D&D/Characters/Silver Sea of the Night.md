@@ -6,3 +6,4 @@ Silver Sea of the Night
 ### Race
  - Tabaxi
  -  Ability Score Increase
+     -  Dexterity

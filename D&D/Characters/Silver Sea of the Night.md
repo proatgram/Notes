@@ -67,4 +67,4 @@ Silver Sea of the Night
      -  A set of common clothes
      -  A pouch containing 10gp
  -  Feature: City Secrets
-     -  I know the secret patter
+     -  I know the secret patterns and flow to cities and can find passages through the urban 

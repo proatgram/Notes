@@ -60,4 +60,7 @@ Silver Sea of the Night
      -  Disguise Kit
      -  Thieves' Tools
  -  Equipment
-     -  
+     -  A small knife
+     -  A map of the city I grew up in
+     -  A pet mouse
+     -  A token to remember your parents

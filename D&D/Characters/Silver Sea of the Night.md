@@ -56,4 +56,5 @@ Silver Sea of the Night
  - Proficiencies
      - Sleight of Hand
      - Stealth
- - Tool Profi
+ - Tool Proficiencies
+ - 

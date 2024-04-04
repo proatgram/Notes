@@ -73,4 +73,3 @@ Silver Sea of the Night
 
  - Introduction
 
-a

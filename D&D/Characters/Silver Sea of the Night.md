@@ -12,4 +12,5 @@ Silver Sea of the Night
  -  Ability Score Increase
      -  Dexterity increases by 2
      -  Charisma increases by 1
- -  
+ -  Speed: Base walking speed is 30 feet
+ -  Darkvision:

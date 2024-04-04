@@ -7,6 +7,9 @@ Silver Sea of the Night
  - Alignment: Chaotic Good (CG)
  - Size: 6'1"
  - Weight: 170
+ - Languages
+     - Common
+     - 
 ### Race
  - Tabaxi
  -  Ability Score Increase
@@ -20,4 +23,5 @@ Silver Sea of the Night
  -  Cat's claws: Because of my claws, I have a climbing speed of 20 feet. In addition, my claws can be used as natural weapons, which can be used to make unarmed strikes. If I hit with the claws, I deal 1d4 + my strength modifier slashing damage.
  -  Cat's Talent
      -  Proficiency in Perception
-     -  Pro
+     -  Proficiency in Stealth
+ -  Languages: I

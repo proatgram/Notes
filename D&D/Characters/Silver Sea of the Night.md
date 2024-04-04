@@ -11,7 +11,7 @@ Silver Sea of the Night
      - Common
      - 
 ### Race
- - Tabaxi
+ - [Tabaxi](http://dnd5e.wikidot.com/lineage:tabaxi)
  -  Ability Score Increase
      -  Dexterity increases by 2
      -  Charisma increases by 1
@@ -27,7 +27,7 @@ Silver Sea of the Night
  -  Languages: I can speak, read, and write Common and one other language of my choice ()
 
 ### Class
- - Artificer
+ - [Artificer](http://dnd5e.wikidot.com/artificer)
  - Hit Points
      - Hit Dice: 1d8 per artificer level
      - Hit points at 1st Level: 8 + my constitution modifier

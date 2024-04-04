@@ -24,4 +24,5 @@ Silver Sea of the Night
  -  Cat's Talent
      -  Proficiency in Perception
      -  Proficiency in Stealth
- -  Languages: I
+ -  Languages: I can speak, read, and write Common and one other language of my choice ()
+ -  

@@ -5,7 +5,7 @@ Silver Sea of the Night
 --------
  - Age: 23
  - Alignment: Chaotic Good (CG)
- - Size: 
+ - Size: 6'3"
 ### Race
  - Tabaxi
  -  Ability Score Increase

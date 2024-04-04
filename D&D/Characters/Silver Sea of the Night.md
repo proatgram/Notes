@@ -42,4 +42,8 @@ Silver Sea of the Night
          - Thieves' Tools
          - Tinker's Tools
          - One type of artisan's tools of my choice
-     - Equipme
+     - Equipment
+         - Any two simple weapons
+         - A light crossbow and 20 bolts
+         - Armor   
+         - 

@@ -53,3 +53,7 @@ Silver Sea of the Night
 
 ### Background
  - Urchin
+ - Proficiencies
+     - Sleight of Hand
+     - Stealth
+ - Tool Profi

@@ -29,4 +29,5 @@ Silver Sea of the Night
 ### Class
  - Artificer
  - Hit Dice: 1d8 per artificer level
- - Hit p
+ - Hit points at 1st Level: 8 + my constitution modifier
+ - Hit points at Higher Levels: 1d8 (or 5) + your 

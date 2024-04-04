@@ -66,4 +66,5 @@ Silver Sea of the Night
      -  A token to remember your parents by
      -  A set of common clothes
      -  A pouch containing 10gp
- -  
+ -  Feature: City Secrets
+     -  I know the secret patter

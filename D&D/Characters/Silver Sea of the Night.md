@@ -3,7 +3,8 @@ Silver Sea of the Night
 
 ## Basic Info
 --------
- - Age: 
+ - Age: 23
+ - 
 ### Race
  - Tabaxi
  -  Ability Score Increase

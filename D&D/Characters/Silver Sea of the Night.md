@@ -63,4 +63,7 @@ Silver Sea of the Night
      -  A small knife
      -  A map of the city I grew up in
      -  A pet mouse
-     -  A token to remember your parents
+     -  A token to remember your parents by
+     -  A set of common clothes
+     -  A pouch containing 10gp
+ -  

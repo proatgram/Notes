@@ -71,5 +71,6 @@ Silver Sea of the Night
 
 ## Backstory
 
- - Introduction
+### Introduction
+Silver Sea of The Night, or Silver for short, 
 

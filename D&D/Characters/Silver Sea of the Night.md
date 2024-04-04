@@ -72,5 +72,5 @@ Silver Sea of the Night
 ## Backstory
 
 ### Introduction
-Silver Sea of The Night, or Silver for short, comes from a small clan called The Ancient Island Clan
+Silver Sea of The Night, or Silver for short, comes from a small clan called The Ancient Island Clan. He was born and raised 
 

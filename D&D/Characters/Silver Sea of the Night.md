@@ -45,5 +45,7 @@ Silver Sea of the Night
      - Equipment
          - Any two simple weapons
          - A light crossbow and 20 bolts
-         - Armor   
-         - 
+         - Armor: Either
+             - (a) Studded Leather Armor
+             - (b) Scale Mail
+         - Thieve's Tools and a Dungeone

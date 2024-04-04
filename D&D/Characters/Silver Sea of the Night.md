@@ -50,3 +50,4 @@ Silver Sea of the Night
              - (b) Scale Mail
          - Thieve's Tools and a Dungeoneer's Pack
          - Alternatively, 5d4x10
+         - 

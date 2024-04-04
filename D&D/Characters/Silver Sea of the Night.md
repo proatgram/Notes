@@ -67,4 +67,5 @@ Silver Sea of the Night
      -  A set of common clothes
      -  A pouch containing 10gp
  -  Feature: City Secrets
-     -  I know the secret patterns and flow to cities and can find passages through the urban sprawl that others may miss. When not in combat, me and companions I may lead can trave
+     -  I know the secret patterns and flow to cities and can find passages through the urban sprawl that others may miss. When not in combat, me and companions I may lead can travel twice as fast as fsat as my normal speed would allow.
+ -  

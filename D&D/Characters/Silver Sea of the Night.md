@@ -33,3 +33,9 @@ Silver Sea of the Night
      - Hit points at 1st Level: 8 + my constitution modifier
      - Hit points at Higher Levels: 1d8 (or 5) + your Constitution modifier per artificer level after 1st
  - Proficiencies
+     - Armor
+         - Light
+         - Medium
+         - Shields
+     - Weapons: Simple weapons
+     - Tools

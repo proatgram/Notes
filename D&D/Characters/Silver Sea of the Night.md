@@ -39,3 +39,7 @@ Silver Sea of the Night
          - Shields
      - Weapons: Simple weapons
      - Tools
+         - Thieves' Tools
+         - Tinker's Tools
+         - One type of artisan's tools of my choice
+     - Equipme

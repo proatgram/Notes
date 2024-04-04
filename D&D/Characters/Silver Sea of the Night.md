@@ -72,5 +72,5 @@ Silver Sea of the Night
 ## Backstory
 
 ### Introduction
-Silver Sea of The Night, or Silver for short, comes from a small clan called The Ancient Island Clan. He was born and raised here by his father, Six Wish (Wish), and his mother, Solstice of Summer (Solstice). Their clan was located in an ancient ruin
+Silver Sea of The Night, or Silver for short, comes from a small clan called The Ancient Island Clan. He was born and raised here by his father, Six Wish (Wish), and his mother, Solstice of Summer (Solstice). Their clan was located in an ancient ruin known as The Isle of Blight
 

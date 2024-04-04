@@ -28,4 +28,5 @@ Silver Sea of the Night
 
 ### Class
  - Artificer
- - 
+ - Hit Dice: 1d8 per artificer level
+ - Hit p

@@ -57,4 +57,7 @@ Silver Sea of the Night
      - Sleight of Hand
      - Stealth
  - Tool Proficiencies
- - 
+     -  Disguise Kit
+     -  Thieves' Tools
+ -  Equipment
+     -  

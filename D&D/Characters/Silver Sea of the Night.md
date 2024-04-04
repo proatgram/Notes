@@ -48,4 +48,5 @@ Silver Sea of the Night
          - Armor: Either
              - (a) Studded Leather Armor
              - (b) Scale Mail
-         - Thieve's Tools and a Dungeone
+         - Thieve's Tools and a Dungeoneer's Pack
+         - Alternatively, 5d4x10

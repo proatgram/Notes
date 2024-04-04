@@ -25,4 +25,7 @@ Silver Sea of the Night
      -  Proficiency in Perception
      -  Proficiency in Stealth
  -  Languages: I can speak, read, and write Common and one other language of my choice ()
- -  
+
+### Class
+ - Artificer
+ - 

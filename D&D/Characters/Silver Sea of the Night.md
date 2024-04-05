@@ -9,7 +9,7 @@ Silver Sea of the Night
  - Weight: 170
  - Languages
      - Common
-     - 
+     - Draconic
 ### Race
  - [Tabaxi](http://dnd5e.wikidot.com/lineage:tabaxi)
  -  Ability Score Increase

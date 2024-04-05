@@ -24,7 +24,7 @@ Silver Sea of the Night
  -  Cat's Talent
      -  Proficiency in Perception
      -  Proficiency in Stealth
- -  Languages: I can speak, read, and write Common and one other language of my choice ()
+ -  Languages: I can speak, read, and write Common and one other language of my choice (Draconic)
 
 ### Class
  - [Artificer](http://dnd5e.wikidot.com/artificer)

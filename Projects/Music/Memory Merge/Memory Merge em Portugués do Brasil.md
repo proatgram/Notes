@@ -73,7 +73,7 @@ Combinação dessas memórias
 Pra uma mistura de anomalias
 Revelar todo o trauma que sufri
 Reviverei tudo isso pra para nascer mais forte.
-Então não há como alguém repitir repetir
+Então não há como alguém repetir
 O que você me fez
 
 [Outro]

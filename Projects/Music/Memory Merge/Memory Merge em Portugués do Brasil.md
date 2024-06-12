@@ -35,7 +35,7 @@ O que você me fez
 Ideias viraram vozes agora mutantes %
 Desejei a recuperação
 Mas não tive como escapar
-Uma vez, só um toque
+Uma vez, um mero toque
 Agora, um enxame a enfrentar
 Certamente tarde demais
 Porque meu limite tá sobre quebrar

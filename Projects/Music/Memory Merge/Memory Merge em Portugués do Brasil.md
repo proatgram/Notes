@@ -24,8 +24,8 @@ Ainda meu corpo tá a gritar %
 Posso prosseguir me render
 Pras Às visões que apenas não posso me lembrar
 Combinação dessas memórias
-Pra Para uma mistura de anomalias
-Revelar todo o trauma que sufri sofri
+Pra uma mistura de anomalias
+Revelar todo o trauma que sufri
 Reviverei tudo isso pra para nascer mais forte.
 Então não há como alguém repitir repetir
 O que você me fez

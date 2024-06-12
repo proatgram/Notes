@@ -38,7 +38,7 @@ Mas não tive como escapar
 Uma vez, só um toque
 Agora, um enxame a enfrentar
 Certamente tarde demais
-Porque meu limite tâ tá sobre quebrar
+Porque meu limite tá sobre quebrar
 
 [Pré-Refrão]
 Porque a doçura no teu rosto

@@ -22,7 +22,7 @@ Ainda meu corpo tá a gritar %
 
 [Refrão]
 Posso prosseguir me render?
-Pras Às visões que apenas não posso me lembrar
+Pras visões que apenas não posso me lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias
 Revelar todo o trauma que sufri

@@ -32,7 +32,7 @@ O que você me fez
 
 [Versículo 2]
 "Realmente aconteceu?" 
-Ideias viraram vozes agora mutantes
+Ideias viraram vozes agora mutantes %
 Desejei a recuperação
 Mas não tive como escapar
 Uma vez, só um toque

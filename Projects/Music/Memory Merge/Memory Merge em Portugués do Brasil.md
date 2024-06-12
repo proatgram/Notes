@@ -31,7 +31,7 @@ Então não há como alguém repetir
 O que você me fez
 
 [Versículo 2]
-"Fez realmente acorrer acontecer"
+"Fez realmente acorrer acontecer" %
 Ideias viraram vozes agora mutantes
 Desejei a recuperação
 Mas não tive como escapar

@@ -80,4 +80,4 @@ O que você me fez
 Realmente aconteceu?
 Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
-O passado moldado em mentiras
+O passado moldado em mentiras %

@@ -7,7 +7,7 @@ Ou eram peças jogadas por aí
 Uma palavra poderia quebrar
 O passado moldado em mentiras
 Olhar pras memórias
-Busca Busco de padrões para comparação
+Buscar de padrões para comparação
 Mas nada vem à cabeça
 Nos fragmentos que não posso reparar
 

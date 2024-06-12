@@ -62,7 +62,7 @@ O que você me fez
 [Interlúdio]
 Havia uma razão pra elas serem esquecidas
 Por que foram trancadas longe da vista
-E agora minha mente tá bagunç bagunçada
+E agora minha mente tá bagunçada
 Forçou uma reinstalação
 Lembre-se de esquecê-los todos
 

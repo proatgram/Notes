@@ -6,52 +6,52 @@ Realmente aconteceu
 Ou eram peças jogadas por aí
 Uma palavra poderia quebrar
 O passado moldado em mentiras
-Olhar pras memórias 
-Busca de padrões para comparação
+Olhar pras memórias
+Busca Busco de padrões para comparação
 Mas nada vem à cabeça
 Nos fragmentos que não posso reparar
 
-[Pré Refrão]
+[Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu quente abraço
-Ainda deixaram um amargo gosto
+E a ternura do teu quente caloroso abraço
+Ainda deixaram deixa um amargo gosto
 Não há nada para rastrear
-Tempos de dor, todas apagaram
-Ainda meu corpo tá o gritar %
+Tempos de dor, todas todos apagaram
+Ainda meu corpo tá o a gritar
 "Não cometa o mesmo erro"
 
 [Refrão]
 Posso prosseguir me render
-Pras visões que apenas não posso me lembrar %
-Combinação dessas memórias 
-Pra uma mistura de anomalias
-Revelar todo o trauma que sufri
-Reviverei tudo isso pra nascer mais forte.
-Então não há como alguém repitir
+Pras Às visões que apenas não posso me lembrar
+Combinação dessas memórias
+Pra Para uma mistura de anomalias
+Revelar todo o trauma que sufri sofri
+Reviverei tudo isso pra para nascer mais forte.
+Então não há como alguém repitir repetir
 O que você me fez
 
 [Versículo 2]
-"Fez realmente acorrer"
-Idéias virou vozes agora mutantes
+"Fez realmente acorrer acontecer"
+Idéias Ideias virou viraram vozes agora mutantes
 Desejei a recuperação
 Mas não tive como escapar
 Uma vez, só um toque
 Agora, um enxame a enfrentar
 Certamente tarde demais
-Porque meu limite tâ sobre quebrar
+Porque meu limite tâ tá sobre quebrar
 
-[Pré Refrão]
+[Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu quente abraço
-Ainda deixaram um amargo gosto
+E a ternura do teu quente caloroso abraço
+Ainda deixaram deixa um amargo gosto
 Oh, as memórias ficam
-Tempos de dor é reproduzidos.
-Ainda meu corpo tá o gritar %
+Tempos de dor é são reproduzidos.
+Ainda meu corpo tá o a gritar
 "Não cometa o mesmo erro"
 
 [Refrão]
 Agora percebo teus esforços
-E as abrasador feridas terei pra sempre 
+E as abrasador abrasadoras feridas terei pra para sempre
 Manchando todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir
@@ -60,20 +60,20 @@ Fico com uma mente confusa que repete
 O que me fizeste
 
 [Interlúdio]
-Havia uma razão para serem esquecidos
-Por que foram trancados longe da vista
-E agora minha mente tá bagunç
-Forçou uma reinstalação
-Lembrem-se de esquecê-los todos
+Havia uma razão para serem para elas serem esquecidas
+Por que Porque foram trancadas longe da vista
+E agora minha mente tá bagunç bagunçada
+Forçou Forçando uma reinstalação
+Lembrem-se Lembre-se de esquecê-los todos
 
 [Refrão]
 Posso prosseguir me render
-Pras visões que apenas não posso me lembrar %
-Combinação dessas memórias 
-Pra uma mistura de anomalias
-Revelar todo o trauma que sufri
-Reviverei tudo isso pra nascer mais forte.
-Então não há como alguém repitir
+Pras Às visões que apenas não posso me lembrar
+Combinação dessas memórias
+Pra Para uma mistura de anomalias
+Revelar todo o trauma que sufri sofri
+Reviverei tudo isso pra para nascer mais forte.
+Então não há como alguém repitir repetir
 O que você me fez
 
 [Outro]
@@ -81,34 +81,3 @@ Realmente aconteceu
 Ou eram peças jogadas por aí
 Uma palavra poderia quebrar
 O passado moldado em mentiras
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

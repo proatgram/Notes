@@ -43,7 +43,7 @@ Porque meu limite tá sobre quebrar
 [Pré-Refrão]
 Porque a doçura no teu rosto
 E a ternura do teu caloroso abraço
-Ainda deixaram um amargo gosto
+Ainda deixaram um amargo gosto %
 Oh, as memórias ficam
 Tempos de dor é são reproduzidos.
 Ainda meu corpo tá a gritar

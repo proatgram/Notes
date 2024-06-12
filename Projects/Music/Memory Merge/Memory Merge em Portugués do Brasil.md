@@ -45,13 +45,13 @@ Porque a doçura no teu rosto
 E a ternura do teu caloroso abraço
 Ainda deixaram um amargor
 Oh, as memórias ficam
-Tempos de dor é são reproduzidos.
-Ainda meu corpo tá a gritar
-"Não cometa o mesmo erro"
+Tempos de dor é são reproduzidos %
+Ainda meu corpo tá a gritar %
+"Não cometa o mesmo erro" %
 
 [Refrão]
 Agora percebo teus esforços
-E as abrasadoras feridas terei pra sempre
+E as abrasadoras feridas terei pra sempre %
 A manchar todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir?

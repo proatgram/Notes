@@ -60,7 +60,7 @@ Fico com uma mente confusa que repete
 O que você me fez
 
 [Interlúdio]
-Havia uma razão pra serem esquecidas
+Havia uma razão pra serem esquecidas %
 Por que foram trancadas longe da vista
 E agora tô mentalmente confuso
 Forçou reinstalação

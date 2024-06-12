@@ -5,7 +5,7 @@ Memory Merge em Portugués do Brasil
 Realmente aconteceu
 Ou eram peças jogadas por aí
 Uma palavra poderia quebrar
-O passado moldado em mentiras
+O passado moldado em mentiras 
 Olhar pras memórias
 Buscar padrões pra comparar
 Mas nada vem à cabeça
@@ -14,9 +14,9 @@ Nos fragmentos que não posso reparar
 [Pré-Refrão]
 Porque a doçura no teu rosto
 E a ternura do teu caloroso abraço
-Ainda deixaram deixa um amargo gosto
+Ainda deixaram deixa um amargo gosto %
 Não há nada para rastrear
-Tempos de dor, todas todos apagaram
+Tempos de dor, todos apagaram
 Ainda meu corpo tá o a gritar
 "Não cometa o mesmo erro"
 

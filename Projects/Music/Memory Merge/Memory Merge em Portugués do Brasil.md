@@ -63,7 +63,7 @@ O que você me fez
 Havia uma razão pra elas serem esquecidas
 Por que foram trancadas longe da vista
 E agora tô mentalmente confuso
-Forçou uma reinstalação
+Forçou reinstalação
 Lembre-se de esquecê-los todos
 
 [Refrão]

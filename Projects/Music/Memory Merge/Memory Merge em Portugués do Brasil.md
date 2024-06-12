@@ -46,7 +46,7 @@ E a ternura do teu caloroso abraço
 Ainda deixaram um amargo gosto
 Oh, as memórias ficam
 Tempos de dor é são reproduzidos.
-Ainda meu corpo tá o a gritar
+Ainda meu corpo tá a gritar
 "Não cometa o mesmo erro"
 
 [Refrão]

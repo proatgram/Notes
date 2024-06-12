@@ -2,8 +2,8 @@ Memory Merge em Portugués do Brasil
 ========================
 
 [Versículo 1]
-Realmente aconteceu
-Ou eram peças jogadas por aí
+Realmente aconteceu?
+Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
 O passado moldado em mentiras %
 Olhar pras memórias
@@ -21,7 +21,7 @@ Ainda meu corpo tá a gritar %
 "Não cometa o mesmo erro" %
 
 [Refrão]
-Posso prosseguir me render
+Posso prosseguir me render?
 Pras Às visões que apenas não posso me lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias
@@ -54,8 +54,8 @@ Agora percebo teus esforços
 E as abrasadoras feridas terei pra sempre
 A manchar todas essas melodias
 Cheio de desculpas confusas
-Havia alguma forma de eu fugir
-Havia algo mais que eu poderia ter feito
+Havia alguma forma de eu fugir?
+Havia algo mais que eu poderia ter feito?
 Fico com uma mente confusa que repete
 O que você me fez
 
@@ -77,7 +77,7 @@ Então não há como alguém repetir
 O que você me fez
 
 [Outro]
-Realmente aconteceu
-Ou eram peças jogadas por aí
+Realmente aconteceu?
+Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
 O passado moldado em mentiras

@@ -42,10 +42,10 @@ Porque meu limite tá sobre quebrar
 
 [Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu caloroso abraço
+E a ternura do teu caloroso abraço %
 Ainda deixaram um amargor
 Oh, as memórias ficam
-Tempos de dor é são reproduzidos %
+Tempos de dor são reproduzidos %
 Ainda meu corpo tá a gritar %
 "Não cometa o mesmo erro" %
 

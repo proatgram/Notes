@@ -51,7 +51,7 @@ Ainda meu corpo tá a gritar
 
 [Refrão]
 Agora percebo teus esforços
-E as abrasador abrasadoras feridas terei pra para sempre
+E as abrasadoras feridas terei pra sempre
 Manchando todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir

@@ -26,8 +26,8 @@ Pras Às visões que apenas não posso me lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias
 Revelar todo o trauma que sufri
-Reviverei tudo isso pra para nascer mais forte.
-Então não há como alguém repitir repetir
+Reviverei tudo isso pra nascer mais forte.
+Então não há como alguém repetir
 O que você me fez
 
 [Versículo 2]

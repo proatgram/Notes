@@ -14,7 +14,7 @@ Nos fragmentos que não posso reparar
 [Pré-Refrão]
 Porque a doçura no teu rosto
 E a ternura do teu caloroso abraço
-Ainda deixaram deixa um amargo gosto %
+Ainda deixaram um amargo gosto %
 Não há nada para rastrear
 Tempos de dor, todos apagaram
 Ainda meu corpo tá a gritar %

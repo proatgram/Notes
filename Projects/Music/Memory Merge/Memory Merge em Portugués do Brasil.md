@@ -57,7 +57,7 @@ Cheio de desculpas confusas
 Havia alguma forma de eu fugir
 Havia algo mais que eu poderia ter feito
 Fico com uma mente confusa que repete
-O que vome fizeste
+O que você me fez
 
 [Interlúdio]
 Havia uma razão para serem para elas serem esquecidas

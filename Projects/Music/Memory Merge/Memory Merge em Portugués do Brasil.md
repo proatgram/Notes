@@ -64,7 +64,7 @@ Havia uma razão pra elas serem esquecidas
 Por que foram trancadas longe da vista
 E agora minha mente tá bagunç bagunçada
 Forçou uma reinstalação
-Lembrem-se Lembre-se de esquecê-los todos
+Lembre-se de esquecê-los todos
 
 [Refrão]
 Posso prosseguir me render

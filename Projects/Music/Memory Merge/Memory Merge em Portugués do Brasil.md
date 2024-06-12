@@ -13,7 +13,7 @@ Nos fragmentos que não posso reparar
 
 [Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu quente caloroso abraço
+E a ternura do teu caloroso abraço
 Ainda deixaram deixa um amargo gosto
 Não há nada para rastrear
 Tempos de dor, todas todos apagaram

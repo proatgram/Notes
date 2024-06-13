@@ -55,7 +55,7 @@ E as feridas eternas que terei
 Manchando todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir?
-Havia algo mais que eu poderia ter feito? %?
+Havia algo mais que poderia ter feito?
 Fico com mente confusa que repete
 O que você me fez
 

@@ -60,8 +60,6 @@ Fico com mente confusa que repete
 O que você me fez
 
 [Interlúdio]
-Porque é que foram presos
-
 Havia uma razão pros trancar fora
 Por que foram deitados fora
 E agora tô mentalmente confuso

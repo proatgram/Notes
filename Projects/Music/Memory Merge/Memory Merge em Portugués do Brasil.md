@@ -5,7 +5,7 @@ Memory Merge em Portugués do Brasil
 Realmente aconteceu?
 Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
-O passado moldado em mentiras %
+6/13/24 %
 Olhar pras memórias
 Buscar padrões pra comparar
 Mas nada vem à cabeça

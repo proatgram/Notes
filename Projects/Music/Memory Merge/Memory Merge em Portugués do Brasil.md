@@ -67,7 +67,7 @@ Forçou reinstalação
 Lembre-se de esquecê-los todos
 
 [Refrão]
-Posso prosseguir me render
+Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias

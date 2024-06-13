@@ -16,7 +16,7 @@ Porque a doçura no teu rosto
 E a ternura do teu abraço
 Ainda deixaram um amargor
 Não há nada para rastrear
-Tempos de dor, todos apagaram %
+Tempos de dor, todos apagaram
 Ainda meu corpo tá a gritar %
 "Não cometa o mesmo erro" %
 

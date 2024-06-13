@@ -3,7 +3,7 @@ Memory Merge em Portugués do Brasil
 
 [Versículo 1]
 Realmente aconteceu?
-Ou eram peças jogadas por aí?
+Ou eram peças jogadas por aí? 
 Uma palavra poderia quebrar
 Passado forjado em mentiras
 Procurar nas memórias

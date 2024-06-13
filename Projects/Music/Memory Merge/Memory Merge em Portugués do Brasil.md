@@ -5,7 +5,7 @@ Memory Merge em Portugués do Brasil
 Realmente aconteceu?
 Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
-O passado moldado em mentiras % Passado forjado em mentiras
+Passado forjado em mentiras
 Olhar pras memórias
 Buscar padrões pra comparar
 Mas nada vem à cabeça
@@ -80,4 +80,4 @@ O que você me fez
 Realmente aconteceu?
 Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
-O passado moldado em mentiras %
+Passado forjado em mentiras

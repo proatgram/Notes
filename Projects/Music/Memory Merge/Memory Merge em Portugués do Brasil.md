@@ -6,7 +6,7 @@ Realmente aconteceu?
 Ou eram peças jogadas por aí?
 Uma palavra poderia quebrar
 Passado forjado em mentiras
-Olhar pras memórias
+Olhar paras memórias
 Buscar padrões pra comparar
 Mas nada vem à cabeça
 Nos fragmentos que não posso reparar

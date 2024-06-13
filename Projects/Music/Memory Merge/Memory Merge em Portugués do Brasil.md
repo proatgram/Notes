@@ -15,7 +15,7 @@ Nos fragmentos que não posso reparar
 Porque a doçura no teu rosto
 E a ternura do teu belo abraço
 Ainda deixaram um amargor
-Não há nada para rastrear
+Não há nada pra rastrear
 Tempos de dor, todos apagaram
 E meu corpo ainda grita
 "Não repita o erro"

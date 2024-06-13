@@ -60,7 +60,7 @@ Fico com mente confusa que repete
 O que você me fez
 
 [Interlúdio]
-Havia uma razão pra eu não me lembrar
+Havia uma razão pra não me lembrar
 Por que é que foram deitadas fora
 E agora tô mentalmente confuso
 Forçou reinstalação

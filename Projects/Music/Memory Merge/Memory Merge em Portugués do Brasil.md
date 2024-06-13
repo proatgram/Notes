@@ -51,7 +51,7 @@ E meu corpo ainda grita
 
 [Refrão]
 Agora percebo teus esforços
-E as feridas eternas que vou
+E as feridas eternas que terei
 Manchando todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir?

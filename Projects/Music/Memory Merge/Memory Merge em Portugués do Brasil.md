@@ -13,7 +13,7 @@ Nos fragmentos que não posso reparar
 
 [Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu abraço
+E a ternura do teu belo abraço
 Ainda deixaram um amargor
 Não há nada para rastrear
 Tempos de dor, todos apagaram
@@ -42,7 +42,7 @@ Porque meu limite tá sobre quebrar
 
 [Pré-Refrão]
 Porque a doçura no teu rosto
-E a ternura do teu belo abraço %
+E a ternura do teu belo abraço
 Ainda deixaram um amargor
 Oh, as memórias ficam
 Tempos de dor são reproduzidos %

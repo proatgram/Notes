@@ -22,7 +22,7 @@ E meu corpo ainda grita.
 
 [Refrão]
 Posso prosseguir me render?
-Às visões que apenas não posso me lembrar %
+Às visões que não eu posso lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias
 Revelar todo o trauma que sufri

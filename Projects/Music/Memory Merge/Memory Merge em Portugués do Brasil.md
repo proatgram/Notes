@@ -61,7 +61,7 @@ O que você me fez
 
 [Interlúdio]
 Havia uma razão pra eu não me lembrar
-Por que foram deitados fora
+Por que é que foram deitadas fora
 E agora tô mentalmente confuso
 Forçou reinstalação
 Lembre-se de esquecê-los todos

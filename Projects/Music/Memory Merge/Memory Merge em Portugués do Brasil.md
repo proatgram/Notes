@@ -61,7 +61,7 @@ O que você me fez
 
 [Interlúdio]
 Havia uma razão pros trancar fora
-Por que foram trancadas longe da vista
+Por que foram deitados fora
 E agora tô mentalmente confuso
 Forçou reinstalação
 Lembre-se de esquecê-los todos

@@ -17,7 +17,7 @@ E a ternura do teu abraço
 Ainda deixaram um amargor
 Não há nada para rastrear
 Tempos de dor, todos apagaram
-Ainda meu corpo tá a gritar %
+E meu corpo ainda grita.
 "Não cometa o mesmo erro" %
 
 [Refrão]

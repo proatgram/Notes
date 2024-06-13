@@ -51,7 +51,7 @@ E meu corpo ainda grita
 
 [Refrão]
 Agora percebo teus esforços
-E as cicatrizes feridas que terei pra sempre
+E as cicatrizes que carregarei pra sempre
 A manchar todas essas melodias
 Cheio de desculpas confusas
 Havia alguma forma de eu fugir?

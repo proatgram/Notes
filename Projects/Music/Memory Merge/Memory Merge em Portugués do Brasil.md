@@ -45,7 +45,7 @@ Porque a doçura no teu rosto
 E a ternura do teu belo abraço
 Ainda deixaram um amargor
 Oh, as memórias ficam
-Tempos de dor são Re-emergindo %
+Tempos de dor estão voltando
 E meu corpo ainda grita
 "Não repita o erro"
 

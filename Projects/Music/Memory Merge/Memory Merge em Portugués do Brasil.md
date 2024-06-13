@@ -18,7 +18,7 @@ Ainda deixaram um amargor
 Não há nada para rastrear
 Tempos de dor, todos apagaram
 E meu corpo ainda grita.
-"Não cometa o mesmo erro" %
+"Não repita o erro"
 
 [Refrão]
 Posso prosseguir me render?
@@ -47,7 +47,7 @@ Ainda deixaram um amargor
 Oh, as memórias ficam
 Tempos de dor são reproduzidos
 E meu corpo ainda grita
-"Não cometa o mesmo erro" %
+"Não repita o erro"
 
 [Refrão]
 Agora percebo teus esforços

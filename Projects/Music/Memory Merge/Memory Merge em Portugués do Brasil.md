@@ -24,7 +24,7 @@ E meu corpo ainda grita
 Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
-Pra uma mistura de anomalias
+Numa mistura de anomalias
 Revelar todo o trauma que sufri
 Reviverei tudo isso pra nascer mais forte.
 Então não há como alguém repetir
@@ -70,7 +70,7 @@ Lembre-se de esquecê-los todos
 Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
-Pra uma mistura de anomalias
+Numa mistura de anomalias
 Revelar todo o trauma que sufri
 Reviverei tudo isso pra nascer mais forte.
 Então não há como alguém repetir

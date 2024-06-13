@@ -68,7 +68,7 @@ Lembre-se de esquecê-los todos
 
 [Refrão]
 Posso prosseguir me render
-Pras visões que apenas não consigo lembrar %
+Pras visões que apenas não poss lembrar %
 Combinação dessas memórias
 Pra uma mistura de anomalias
 Revelar todo o trauma que sufri

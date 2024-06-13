@@ -21,7 +21,7 @@ E meu corpo ainda grita
 "Não repita o erro"
 
 [Refrão]
-Posso prosseguir me render?
+Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
 Pra uma mistura de anomalias

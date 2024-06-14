@@ -25,7 +25,7 @@ Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
 Numa mistura de anomalias
-Revelar todo o trauma que sufri
+Revelar todo o trauma que sofri
 Reviverei tudo isso pra nascer mais forte.
 Então não há como alguém repetir
 O que você me fez
@@ -71,7 +71,7 @@ Posso avançar me render
 Às visões que não eu posso lembrar
 Combinação dessas memórias
 Numa mistura de anomalias
-Revelar todo o trauma que sufri
+Revelar todo o trauma que sofri
 Reviverei tudo isso pra nascer mais forte.
 Então não há como alguém repetir
 O que você me fez
